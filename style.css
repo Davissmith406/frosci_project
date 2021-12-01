@@ -22,8 +22,15 @@ p {
 #title {
 	line-height: 100%;
 }
+
 #maintext {
 	margin-left: 25%;
 	margin-right: 25%;
 	line-height: 150%;
+}
+
+#banner {
+	background-image: url("./media/FoS_Banner.jpeg");
+	background-size: cover;
+	height: 200%;
 }
